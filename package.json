@@ -1,0 +1,19 @@
+{
+  "name": "inet-aton",
+  "version": "1.0.0",
+  "description": "Turns a string IP into an array of the IP numbers",
+  "main": "inet_aton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaineBannister/inet_aton.git"
+  },
+  "author": "Raine Bannister",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaineBannister/inet_aton/issues"
+  },
+  "homepage": "https://github.com/RaineBannister/inet_aton#readme"
+}
